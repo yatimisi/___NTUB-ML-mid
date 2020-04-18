@@ -140,5 +140,8 @@ cython_debug/
 # IDE
 .vscode/
 
-# Python Version
+# Python version
 .python-version
+
+# Not commit data
+data/
