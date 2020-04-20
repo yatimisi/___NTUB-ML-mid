@@ -37,8 +37,14 @@ Judging which personality traits should pay more attention to COVID-19.
 ](https://www.kaggle.com/tunguz/big-five-personality-test)
 * [Countries ISO Codes
 ](https://www.kaggle.com/juanumusic/countries-iso-codes)
+* [UID_ISO_FIPS_LookUp_Table](https://github.com/CSSEGISandData/COVID-19)
+
+### Steps
+  1. Handle COVID-19 Data
 
 ## Research Conclusion
+
+Use the Big Five Personality Test to calculate the probability of the subject being infected with COVID-19 in a certain country：
 
 ## References
 
@@ -47,3 +53,4 @@ Judging which personality traits should pay more attention to COVID-19.
 * https://www.kaggle.com/juanumusic/countries-iso-codes
 * https://buzzorange.com/techorange/2019/08/13/machine-learning-algorithm-collection/
 * https://kknews.cc/zh-tw/code/qoeva9y.html
+* https://github.com/CSSEGISandData/COVID-19
